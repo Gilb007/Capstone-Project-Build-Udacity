@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp" >
+
+    <StackView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/stack_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:loopViews="true" />
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/empty_view_news"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#55e98a8a"
+        android:gravity="center"
+        android:text="@string/no_data"
+        android:textColor="#121010"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

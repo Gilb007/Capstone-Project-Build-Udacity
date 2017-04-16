@@ -1,0 +1,22 @@
+<resources>
+
+    <dimen name="detail_backdrop_height">192dp</dimen>
+    <dimen name="status_bar_dimension">24dp</dimen>
+    <dimen name="appbar_layout_dimension">350dp</dimen>
+    <dimen name="appbar_default_elevation">4dp</dimen>
+    <dimen name="details_text_padding">12dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="detail_image">250dp</dimen>
+
+    <dimen name="widget_margin">8dp</dimen>
+
+    <dimen name="default_elevation">4dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+
+</resources>

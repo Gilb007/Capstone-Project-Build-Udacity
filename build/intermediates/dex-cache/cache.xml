@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vladislav_kolomysov/Desktop/AggregNews/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/AggregNews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b0ec7727a5c20efa0e9e6425b7d9665d5a30452/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladislav_kolomysov/Desktop/AggregNews/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c229b15b871c74d58b67aa9721a4f1ba87e315cf">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/AggregNews/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1baf744ef6653a86398ffdc58bf54fba6de2b6bd/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AggregNews</string>
+
+    <string name="content_authority">com.example.vladkolomysov.capstone</string>
+    <string name="sync_account_type">com.example.vladkolomysov.capstone</string>
+
+    <string name="appwidget_text">aggregnews</string>
+    <string name="add_widget">Add widget</string>
+
+    <string name="base_url_news">https://newsapi.org/v1/sources?language=en</string>
+    <string name="details_aggreg_news_url">https://newsapi.org/v1/articles?</string>
+    <string name="source_aggreg_news">source</string>
+    <string name="aggreg_news_api_text">apiKey</string>
+    <string name="api_key_aggreg_news">cb76f1f7095340f78ae0821a1cbc4774</string>
+    <string name="no_internet">No internet!</string>
+    <string name="no_data">No data!</string>
+
+    <string name="favourite_image">Aggreg Favourite Image</string>
+    <string name="details_image">Aggreg News Image</string>
+
+    <string name="button_browser">Aggreg Browser button</string>
+    <string name="button_share">Share button</string>
+    <string name="button_bookmark">Bookmark button</string>
+    <string name="button_delete_all">Delete all button</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-5040891831252267/7395636234</string>
+</resources>
